@@ -17,9 +17,9 @@ A School Board has asked for data from recent standardized state math and readin
 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
-How is the district summary affected?
+How is the district summary affected by the dishonesty?
 
-How is the school summary affected?
+How is the school summary affected by the dishonesty?
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
