@@ -5,11 +5,13 @@ Analyzing the results of state tests in Math and Reading for fifteen schools in 
 ## Resources
 
 - Data:
-- Software: Jupyter Notebooks
+  - schools_complete.csv
+  - students_complete.csv
+- Software: Jupyter Notebooks 6.4.8
 
 ## Overview
 
-Explain the purpose of this analysis.
+A School Board has asked for data from recent standardized state math and reading test for 9th to 12th graders in a district to be analyzed for any trends to assist the Board in making budgetary decisions. The Board then further asks for the same analysis of data, except excluding any results that may be related to cases of academic dishonesty.
 
 ## Results
 
