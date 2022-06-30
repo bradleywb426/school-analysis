@@ -29,7 +29,7 @@ By accounting for the dishonesty:
 
 ### School Summary
 
-- Given the dishonesty is believed to be localized to 9th Graders in Thomas High School, only the scores for that school have been affected by this updated analysis
+Given the dishonesty is believed to be localized to 9th Graders in Thomas High School, only the scores for that school have been affected by this updated analysis.
 - Thomas High School's *Average Math Score* decreased by less than a point
 - Thomas High School's *Average Reading Score* increased by less than a point
   - This increase could be why the *Average Reading Score* remained constant in the district summary
@@ -42,42 +42,40 @@ By accounting for the dishonesty:
 
 ### Thomas High School Performance
 
+- Given the slight changes to Thomas High School's scores, their ranking compared to other school's scores is unchanged
+
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig7-1.png width="800">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig7-2.png width="800">
+
 ### Math and Reading Score by Grade
+
+- Since the entirity of 9th Grade scores for Thomas High School were removed, only those values change and go from low 80s to null values.
+
+- The original Math and Reading scores are the first two data sets, while the updated Math and Reading Scores are the last two data sets
+
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-1-1.png width="225"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-1-2.png width="227"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-2-1.png width="221"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-2-2.png width="229">
 
 ### Scores by School Spending
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- The scores remain constant when viewed by school spending
 
-How does replacing the ninth-grade scores affect the following:
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig4-1.png width="800">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig4-2.png width="800">
 
-Math and reading scores by grade
+### Scores by School Size
 
-Scores by school spending
+- The scores remain constant when viewed by school size
 
-Scores by school size
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig5-1.png width="800">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig5-2.png width="800">
 
-Scores by school type
+### Scores by School Type
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+- The scores remain constant when viewed by School Type
 
--------------
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig6-1.png width="800">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig6-2.png width="800">
 
-Each section has a heading and subheading (3 pt).
+## Summary
 
-Links to images are working, and code is formatted and displayed correctly (2 pt).
-
-Analysis (18 points)
-
-The written analysis has the following:
-
-Overview of the school district analysis:
-
-The purpose of this analysis is well defined (3 pt).
-
-Results:
-
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-
-Summary:
-
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+To summarize, removing the scores of the 9th Graders at Thomas High School to address the academic dishonesty in said grade level tended to result in small decreases in *Average Reading Scores* and *% Passing* values, and either small increases to or no change to *Average Reading Score* when the updated analysis is viewed at the district and school levels. When the updated analysis is viewed in other slices of data, such as by school size or type, there is no visible change in scores. When viewed by grade level, the only change is the null values for 9th grade scores in Thomas High School.
