@@ -11,15 +11,40 @@ Analyzing the results of state tests in Math and Reading for fifteen schools in 
 
 ## Overview
 
-A School Board has asked for data from recent standardized state math and reading test for 9th to 12th graders in a district to be analyzed for any trends to assist the Board in making budgetary decisions. The Board then further asks for the same analysis of data, except excluding any results that may be related to cases of academic dishonesty.
+A School Board has asked for data from recent standardized state math and reading test for 9th to 12th graders in a district to be analyzed for any trends to assist the Board in making budgetary decisions. The Board then further asks for the same analysis of data, except excluding any results that may be related to cases of academic dishonesty. These reports of academic dishonesty were localized in the 9th grade of Thomas High School, and as such the entire 9th grade for Thomas High School as been expunged from the new analysis.
 
 ## Results
 
-Using bulleted lists and images of DataFrames as support, address the following questions.
+### District Summary
 
-How is the district summary affected by the dishonesty?
+By accounting for the dishonesty:
+- The *Average Math Score* decreases by less than a point
+- The *Average Reading Score* remains constant
+- The *% Passing Math* decreases by less than a percent
+- The *% Passing Reading* decreases by less than a percent
+- The *% Passing Overall* decreses by less than a percent
 
-How is the school summary affected by the dishonesty?
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig1-1.png width="800">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig1-2.png width="800">
+
+### School Summary
+
+- Given the dishonesty is believed to be localized to 9th Graders in Thomas High School, only the scores for that school have been affected by this updated analysis
+- Thomas High School's *Average Math Score* decreased by less than a point
+- Thomas High School's *Average Reading Score* increased by less than a point
+  - This increase could be why the *Average Reading Score* remained constant in the district summary
+- The *% Passing Math* decreased by less than a percent
+- The *% Passing Reading* decreased by less than a percent
+- The *% Passing Overall* decreased by less than a percent 
+
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig2-1.png width="700">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig2-2.png width="700">
+
+### Thomas High School Performance
+
+### Math and Reading Score by Grade
+
+### Scores by School Spending
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
