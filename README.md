@@ -68,7 +68,7 @@ Given the dishonesty is believed to be localized to 9th Graders in Thomas High S
 
 - The original Math and Reading scores are the first two data sets, while the updated Math and Reading Scores are the last two data sets
 
-<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-1-1.png width="200"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-1-2.png width="200"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-2-1.png width="200"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-2-2.png width="200">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-1-1.png width="194"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-1-2.png width="196"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-2-1.png width="192"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-2-2.png width="200">
 
 -----
 
@@ -76,8 +76,8 @@ Given the dishonesty is believed to be localized to 9th Graders in Thomas High S
 
 - The scores remain constant when viewed by school spending
 
-<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig4-1.png width="800">
-<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig4-2.png width="800">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig4-1.png width="750">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig4-2.png width="750">
 
 -----
 
@@ -85,8 +85,8 @@ Given the dishonesty is believed to be localized to 9th Graders in Thomas High S
 
 - The scores remain constant when viewed by school size
 
-<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig5-1.png width="800">
-<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig5-2.png width="800">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig5-1.png width="750">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig5-2.png width="750">
 
 -----
 
@@ -94,8 +94,8 @@ Given the dishonesty is believed to be localized to 9th Graders in Thomas High S
 
 - The scores remain constant when viewed by School Type
 
-<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig6-1.png width="800">
-<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig6-2.png width="800">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig6-1.png width="750">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig6-2.png width="750">
 
 -----
 
