@@ -68,7 +68,7 @@ Given the dishonesty is believed to be localized to 9th Graders in Thomas High S
 
 - The original Math and Reading scores are the first two data sets, while the updated Math and Reading Scores are the last two data sets
 
-<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-1-1.png width="225"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-1-2.png width="225"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-2-1.png width="220"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-2-2.png width="225">
+<img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-1-1.png width="220"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-1-2.png width="220"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-2-1.png width="220"> <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig3-2-2.png width="220">
 
 -----
 
