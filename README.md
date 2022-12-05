@@ -37,8 +37,10 @@ Given the dishonesty is believed to be localized to 9th Graders in Thomas High S
 - The *% Passing Reading* decreased by less than a percent
 - The *% Passing Overall* decreased by less than a percent 
 
+<p align="center">
 <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig2-1.png width="700">
 <img src = https://github.com/bradleywb426/school-analysis/blob/main/Resources/fig2-2.png width="700">
+</p>
 
 ### Thomas High School Performance
 
